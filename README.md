@@ -4,10 +4,88 @@ The custom Windows 11 ISO using an automated installation configuration using an
 
 ---
 
-## Features
-- Automated installation of Windows 11.
-- Pre-configured settings, including language, time zone, disk partitioning, and user account creation.
-- Customizations as defined by the `Autounattend.xml` file.
+## Tweaks
+### Installer Tweaks
+- Bypass Windows 11 requirements
+- Allow Windows 11 to be installed without internet connection
+
+### File Explorer Tweaks
+- Do not show Bing results when searching in the Start menu or the search box
+- Disable widgets
+- Always show file extensions
+- Enable long paths
+
+### System Tweaks
+- Disable Smart App Control
+- Disable SmartScreen in Windows and Edge
+- Allow execution of PowerShell script files
+- Disable app suggestions/Content Delivery Manager
+- Prevent device encryption
+- Hide Edge First Run Experience
+- Make Edge uninstallable
+- Disable the Enhance Pointer Precision mouse setting
+- Disable to send diagnostic data, personalized input or your location history to Microsoft
+
+### Removed Bloatware
+- 3D Viewer
+- Bing Search
+- Calculator
+- Camera
+- Clipchamp
+- Clock
+- Copilot
+- Cortana
+- Dev Home
+- Family
+- Feedback Hub
+- Get Help
+- Handwriting
+- Internet Explorer
+- Mail and Calendat
+- Maps
+- Math Input Panel 
+- Mixed Reality
+- Movies & TV  News
+- Notepad (classic)
+- Office 365
+- OneDrive
+- OneNote
+- OneSync
+- OpenSSH Client
+- Outlook for Windows
+- Paint
+- Paint 3D
+- People
+- Photos
+- Power Automate
+- PowerShell ISE
+- Quick Assist
+- Recall
+- Remote Desktop Client
+- Skype
+- Solitaire Collection
+- Speech
+- Steps Recorder
+- Sticky Notes
+- Teams
+- Tips
+- To Do
+- Voice Recorder
+- Wallet
+- Weather
+- Windows Fax and Scan
+- Windows Media Player (classic)
+- Windows Media Player (modern)
+- WordPad
+- Xbox Apps
+- Your Phone
+#### What Left?
+- Notepad (modern)
+- PowerShell 2.0
+- Snipping Tool
+- Windows Hello
+- Windows Terminal
+- Media Features
 
 ---
 
